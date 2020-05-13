@@ -1,0 +1,2 @@
+# BFBaas
+The block chain framework is embedded into the cloud computing platform, and the deployment and management advantages of cloud service infrastructure are utilized to provide developers with convenient and high-performance ecological environment and ecological supporting services for the block chain, and to support the business development and operation of the block chain open platform supported by developers.
